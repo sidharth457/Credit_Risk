@@ -1,0 +1,11 @@
+Applicant_ID,Utility_Payment_History,Mobile_Phone_Bill_Payments,Social_Media_Risk_Indicators,Geolocation_Risk_Score,Device_Fingerprint_Data,Alternative_Credit_Score,Psychometric_Assessment_Score,Digital_Footprint_Analysis
+1001,Poor,Late,High,0.29,Device_0000,470,0.61,Moderate
+1002,Average,Late,Low,0.27,Device_0001,689,0.79,Strong
+1003,Good,On-Time,Medium,0.87,Device_0002,846,0.96,Strong
+1004,Poor,On-Time,Low,0.42,Device_0003,797,0.38,Strong
+1005,Good,On-Time,High,0.22,Device_0004,819,0.83,Strong
+1006,Good,Late,Low,0.7,Device_0005,410,0.43,Weak
+1007,Poor,On-Time,High,0.4,Device_0006,494,0.43,Strong
+1008,Poor,Late,High,0.97,Device_0007,795,0.4,Moderate
+1009,Poor,On-Time,Low,0.46,Device_0008,563,0.81,Strong
+1010,Good,On-Time,High,0.23,Device_0009,566,0.96,Strong

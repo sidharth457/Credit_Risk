@@ -1,0 +1,11 @@
+Applicant_ID,Employment_Status,Employer_Name,Industry_Sector,Job_Title,Years_in_Current_Job,Total_Work_Experience,Monthly_Gross_Income,Net_Monthly_Income,Additional_Income_Sources,Income_Stability_Score,Employer_Credit_Rating
+1001,Salaried,Company 0,Retail,Analyst,13,15,4698,12098,4789,0.93,BBB
+1002,Self-Employed,Company 1,Finance,Analyst,13,28,6056,12729,3576,0.59,A
+1003,Business Owner,Company 2,Finance,Analyst,10,24,9831,10179,4108,0.59,A
+1004,Business Owner,Company 3,Healthcare,Developer,11,3,14805,8388,3661,0.8,AAA
+1005,Salaried,Company 4,Retail,Analyst,14,4,5693,12287,1294,0.89,A
+1006,Business Owner,Company 5,Healthcare,Manager,3,20,6209,4227,862,0.56,A
+1007,Business Owner,Company 6,Finance,Manager,1,26,11935,3012,2826,0.87,AAA
+1008,Salaried,Company 7,IT,Consultant,10,12,13098,5209,2138,0.69,BB
+1009,Salaried,Company 8,IT,Analyst,3,26,12443,12790,1234,0.68,BB
+1010,Business Owner,Company 9,Healthcare,Analyst,14,28,9447,13654,4670,0.52,AA

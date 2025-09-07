@@ -1,0 +1,12 @@
+streamlit
+pandas
+matplotlib
+seaborn
+autogen
+google-generativeai
+scikit-learn
+joblib
+plotly
+plotnine
+bokeh
+altair

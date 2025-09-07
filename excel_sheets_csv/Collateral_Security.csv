@@ -1,0 +1,11 @@
+Application_ID,Collateral_Type,Collateral_Value,Loan_to_Value_Ratio,Property_Location,Property_Age,Market_Valuation_Date,Insurance_Coverage,Legal_Clear_Title,Third_Party_Guarantors
+5001,Fixed Deposit,217269,0.76,City B,6,2023-08-11,No,Yes,
+5002,Property,589786,0.54,City A,26,2023-10-12,Yes,Yes,Guarantor B
+5003,Vehicle,37883,0.72,City A,5,2023-07-12,No,Yes,Guarantor A
+5004,Securities,43267,0.65,City C,17,2022-03-17,No,No,
+5005,Property,471109,0.31,City A,26,2023-01-15,No,Yes,Guarantor B
+5006,Securities,68723,0.74,City A,23,2023-01-11,No,No,Guarantor A
+5007,Vehicle,762101,0.88,City B,18,2025-06-21,No,Yes,Guarantor A
+5008,Property,734950,0.88,City A,12,2023-04-25,Yes,Yes,Guarantor B
+5009,Property,763746,0.89,City A,11,2022-02-25,Yes,No,Guarantor B
+5010,Property,928823,0.42,City B,17,2023-12-19,No,No,

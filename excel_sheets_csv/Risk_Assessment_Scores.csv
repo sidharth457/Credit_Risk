@@ -1,0 +1,11 @@
+Application_ID,Applicant_ID,Internal_Risk_Score,Probability_of_Default,Loss_Given_Default,Exposure_at_Default,Expected_Loss,Risk_Grade,Automated_Decision,Manual_Override_Flag,Final_Decision,Decision_Date
+5001,1001,825.88,0.26,0.71,404413,8446,Near-Prime,Approve,False,Pending,2024-11-22
+5002,1002,578.99,0.31,0.57,366133,23735,Prime,Manual Review,False,Rejected,2023-10-02
+5003,1003,695.02,0.05,0.29,406660,16598,Prime,Approve,True,Approved,2023-01-30
+5004,1004,502.76,0.25,0.63,353306,23056,Sub-Prime,Approve,False,Rejected,2024-11-23
+5005,1005,545.25,0.17,0.38,430505,13807,Sub-Prime,Manual Review,True,Approved,2024-07-11
+5006,1006,785.21,0.25,0.65,403747,6768,Prime,Manual Review,True,Rejected,2023-09-01
+5007,1007,744.53,0.29,0.71,456733,872,Near-Prime,Approve,True,Rejected,2023-05-11
+5008,1008,485.31,0.45,0.51,483125,6804,Sub-Prime,Approve,True,Pending,2023-05-12
+5009,1009,668.22,0.42,0.26,263511,9697,Near-Prime,Approve,True,Rejected,2025-07-23
+5010,1010,629.8,0.05,0.23,321183,1382,Sub-Prime,Manual Review,True,Approved,2024-08-30

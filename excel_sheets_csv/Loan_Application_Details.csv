@@ -1,0 +1,11 @@
+Application_ID,Applicant_ID,Loan_Type,Requested_Loan_Amount,Loan_Tenure_Months,Interest_Rate_Offered,Purpose_of_Loan,Application_Date,Application_Source,Processing_Branch
+5001,1001,Personal,142428,24,8.25,Medical,2023-01-20,Branch,Branch A
+5002,1002,Personal,269204,24,13.19,Business Expansion,2023-10-25,Branch,Branch A
+5003,1003,Business,318699,180,11.95,Business Expansion,2023-10-11,Branch,Branch C
+5004,1004,Home,68819,12,12.19,Education,2024-07-31,Agent,Branch A
+5005,1005,Personal,413906,120,12.81,Medical,2023-05-04,Online,Branch C
+5006,1006,Personal,236409,24,7.62,Education,2024-06-18,Agent,Branch A
+5007,1007,Home,325956,12,11.05,Medical,2023-08-16,Agent,Branch C
+5008,1008,Personal,136144,60,11.25,Education,2024-04-06,Online,Branch A
+5009,1009,Business,369302,12,13.03,Home Purchase,2024-12-02,Agent,Branch C
+5010,1010,Auto,111703,36,10.31,Education,2023-02-27,Branch,Branch B

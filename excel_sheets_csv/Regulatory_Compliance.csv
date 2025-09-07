@@ -1,0 +1,11 @@
+Application_ID,KYC_Compliance_Status,AML_Check_Result,Sanctions_List_Screening,PEP_Check,FATCA_Compliance,Regulatory_Limit_Check,Sector_Exposure_Limit,Single_Borrower_Limit
+5001,Non-Compliant,Clear,Passed,Yes,No,Fail,Exceeded,Exceeded
+5002,Pending,Clear,Flagged,No,No,Pass,Exceeded,Within Limit
+5003,Non-Compliant,Flagged,Flagged,Yes,Yes,Fail,Within Limit,Exceeded
+5004,Compliant,Flagged,Passed,No,Yes,Fail,Exceeded,Within Limit
+5005,Pending,Flagged,Flagged,No,No,Fail,Exceeded,Exceeded
+5006,Pending,Flagged,Flagged,Yes,Yes,Fail,Within Limit,Within Limit
+5007,Compliant,Flagged,Passed,Yes,Yes,Fail,Within Limit,Exceeded
+5008,Non-Compliant,Flagged,Passed,No,Yes,Fail,Exceeded,Within Limit
+5009,Pending,Clear,Passed,Yes,Yes,Pass,Within Limit,Within Limit
+5010,Compliant,Flagged,Flagged,No,No,Fail,Within Limit,Exceeded

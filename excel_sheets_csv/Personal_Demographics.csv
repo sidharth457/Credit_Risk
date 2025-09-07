@@ -1,0 +1,11 @@
+Applicant_ID,Full_Name,Date_of_Birth,Age,Gender,Marital_Status,Number_of_Dependents,Education_Level,Contact_Information,Identity_Verification
+1001,Applicant 0,1974-07-30,50,Female,Married,1,PhD,user0@mail.com,ID0000
+1002,Applicant 1,1974-08-02,49,Other,Divorced,1,PhD,user1@mail.com,ID0001
+1003,Applicant 2,1984-12-09,57,Other,Divorced,4,High School,user2@mail.com,ID0002
+1004,Applicant 3,1971-12-07,28,Male,Divorced,2,Bachelor's,user3@mail.com,ID0003
+1005,Applicant 4,1976-05-31,50,Other,Divorced,1,PhD,user4@mail.com,ID0004
+1006,Applicant 5,1981-11-02,28,Other,Divorced,2,High School,user5@mail.com,ID0005
+1007,Applicant 6,1970-04-03,51,Other,Married,2,PhD,user6@mail.com,ID0006
+1008,Applicant 7,1982-11-25,52,Other,Married,2,Bachelor's,user7@mail.com,ID0007
+1009,Applicant 8,1994-01-22,31,Male,Divorced,3,PhD,user8@mail.com,ID0008
+1010,Applicant 9,1987-05-30,32,Female,Single,0,Master's,user9@mail.com,ID0009
