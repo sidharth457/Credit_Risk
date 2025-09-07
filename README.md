@@ -48,6 +48,4 @@ python -m git_filter_repo --path Credit_Risk_Analytics_Database_1000_REALISTIC.x
 
 # Force push rewritten history (be careful — this rewrites remote history):
 git push --force origin main
-```
-
-If you'd like, I can enable Git LFS and migrate the `.xlsx` files into LFS for you, or remove them from history — tell me which you'd prefer.
+```.
